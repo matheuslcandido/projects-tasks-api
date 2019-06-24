@@ -1,0 +1,9 @@
+{
+  "name": "projects-tasks-api",
+  "version": "1.0.0",
+  "description": "A API with a CRUD in nodeJs to manager Projects and Tasks",
+  "main": "index.js",
+  "repository": "https://github.com/matheuslcandido/projects-tasks-api",
+  "author": "Matheus Candido",
+  "license": "MIT"
+}
